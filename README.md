@@ -36,7 +36,8 @@ My goal and dream is to be a successful Game Developer. I continue to develop an
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=EnesZhr&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="190" >  
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesZhr&theme=blue-green">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesZhr&theme=dark&layout=compact&langs_count=10" alt="Top Langs" heigth="190">
     </a>
 </p>
 
