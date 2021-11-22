@@ -41,16 +41,8 @@ My goal and dream is to be a successful Game Developer. I continue to develop an
     </a>
 </p>
 
-## I'm trying to learn
-<p align="left">
-   <a href=''>
-        <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white' />
-    </a> 
-   
-</p>
-
-<!-- Im interested in-->
-## I'm interested in 
+<!-- Im trying to learn-->
+## I'm trying to learn 
 
 <p align="left">
       <a href=''>
