@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/EnesZhr/EnesZhr/main/pictures/mj.jpg)
 
 
-My goal and dream is to be a successful Game Developer. I continue to develop and practice myself.
+My goal and dream is to be a successful Front-End Developer. I continue to develop and practice myself.
 
 ## Tech | Tools | Stats
 
